@@ -1,6 +1,6 @@
-## 👋 Hey! I'm Akshay
+## 👋 Hello there!
 
-A Senior Backend & Data Engineer working at [IBS Software](https://www.ibsplc.com), where we build technology that powers travel worldwide ✈️ 
+I'm Akshay, a Senior Backend + Data Engineer working at [IBS Software](https://www.ibsplc.com), where we build technology that powers travel worldwide ✈️ 
 
 ---
 
