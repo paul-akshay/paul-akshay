@@ -1,47 +1,115 @@
-## 👋 Hello there!
+# 👋 Hi, I’m Akshay,
 
-I'm Akshay, a Senior Backend + Data Engineer working at [IBS Software](https://www.ibsplc.com), where we build technology that powers travel worldwide ✈️ 
+**Senior Software Engineer | Distributed Systems | Data Platforms | Travel Tech**
 
----
-
-## 🧑‍💼 About Me
-
-- **11+ years** of experience delivering highly scalable, high-throughput backend systems for global travel and airline companies such as **Expedia Inc, Orbitz Worldwide, Amex Travel, Hawaiian Airlines, and Southwest Airlines**.
-- **8 years** designing large-scale ETL pipelines and analytics platforms  
-- **Lead Engineer** for the **Ads Pricing Platform**, helping drive revenue across Expedia’s SEM ecosystem  
-- Passionate about **microservices**, **distributed systems**, **performance tuning**, and **cloud cost optimization**
-- Experienced mentoring engineers across **US, Canada, China, and India**
-
-## 🚀 Core Expertise
-
-**🛠 Programming Languages**  
-Java • Python • Scala • Kotlin • Go
-
-**🧩 Backend & Distributed Systems**  
-Spring Boot • REST APIs • gRPC • Microservices • Elasticsearch • Apache Solr
-
-**📊 Data Engineering & Analytics**  
-Apache Spark • Airflow • Qubole • Presto/Trino • Hive • HBase • HDFS • Athena • Zeppelin • Querybook • JupyterHub • Tableau
-
-**☁️ Cloud & Infrastructure (AWS)**  
-EMR • S3 • EC2 • Lambda • ElastiCache • DynamoDB • SNS/SQS • EventBridge • CloudFormation
-
-**📦 Containers & Orchestration**  
-Docker • Kubernetes • Amazon EKS • Argo Workflows • Argo CD
-
-**🔄 CI/CD**  
-GitHub Actions • Jenkins • Spinnaker
-
-**📈 Monitoring & Observability**  
-Prometheus • Grafana • Datadog • Splunk
-
-
+📍 Vancouver, Canada  
+🔗 [LinkedIn](https://linkedin.com/in/paul-akshay) • [Medium](https://medium.com/@paul-akshay) • [GitHub](https://github.com/paul-akshay)
 
 ---
 
-## 🤝 Connect With Me
-🔗 [LinkedIn](https://linkedin.com/in/paul-akshay)  
-🔗 [Medium](https://medium.com/@paul-akshay)  
-📧 mail.akshaypaul@gmail.com  
+## 🚀 About Me
+
+I’m a **Senior Software Engineer with 12+ years of experience** building **high-throughput backend systems** and **large-scale data platforms** that process **terabytes of data daily**, primarily in the **travel and marketing technology domain**.
+
+I specialize in:
+- Designing **scalable microservices** using REST and gRPC  
+- Building **data platforms** with Apache Spark, Airflow, and Kubernetes  
+- Leading **platform modernization initiatives** that reduce cloud cost and unlock revenue  
+- Mentoring engineers and setting architectural standards across **globally distributed teams**
+
+I’ve contributed to platforms used by **Expedia Group, Orbitz, Amex Travel, Hawaiian Airlines, and Southwest Airlines**.
 
 ---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+`Java` • `Go` • `Python` • `Scala`
+
+### Backend & APIs
+`REST APIs` • `gRPC` • `Spring Boot`
+
+### Data Engineering
+`Apache Spark` • `Airflow` • `Qubole` • `Presto / Trino` • `Hive` • `HDFS`  
+`ETL Pipelines` • `Data Modeling` • `Data Warehousing` • `Data Governance`
+
+### Cloud & Infrastructure (AWS)
+`EMR` • `S3` • `EC2` • `Lambda` • `DynamoDB` • `Aurora (PostgreSQL)`  
+`SQS` • `SNS` • `EventBridge` • `Athena` • `CloudFormation (IaC)`
+
+### Containers & Orchestration
+`Docker` • `Kubernetes` • `EKS` • `Argo Workflows` • `Argo CD`
+
+### Monitoring & Observability
+`Datadog` • `Prometheus` • `Grafana` • `Splunk`
+
+### CI/CD & Tooling
+`GitHub Actions` • `Jenkins` • `Spinnaker`  
+`Maven` • `Gradle` • `JUnit` • `TestNG` • `Git`
+
+---
+
+## 🏆 Impact Highlights
+
+- 💰 Achieved **$240K/year cloud cost savings** through platform modernization  
+- 📈 Enabled **$16M in incremental revenue** at Expedia Group  
+- ⚡ Built gRPC services handling **~20K requests per second**  
+- 🧠 Enabled ML-driven systems with measurable business uplift
+
+---
+
+## 📌 Selected Projects
+
+### 🔹 Marketing Feeds Data Platform — *Expedia Group*
+- Led redesign of a legacy platform pricing **270M+ daily SEM ads**
+- Built **Kubernetes-orchestrated Spark pipelines** and **real-time gRPC pricing services**
+- **Tech:** Go, gRPC, Spark, Airflow, Argo Workflows, EKS, EMR, DynamoDB
+
+---
+
+### 🔹 Marketing Assets Repository — *Expedia Group*
+- Built a centralized repository managing **1B+ marketing assets**
+- Enabled ML models improving conversion rates by **10%**, generating **$2.6M annual GP**
+- Designed ETLs integrating third-party attribution data
+- **Tech:** Java, Scala, Python, Spark, Airflow, EKS, Presto, Elasticsearch, Aurora
+
+---
+
+### 🔹 Partner API Conversion Efficiency Analytics — *Expedia Group*
+- Designed real-time + batch analytics to monitor **Search-to-Book conversion efficiency**
+- BI dashboards drove **$600K annual cloud savings**
+- **Tech:** Spark Streaming, Scala, AWS, Athena, Tableau
+
+---
+
+### 🔹 Travel Demand Analytics Platform — *Expedia Group*
+- Processed **terabytes of transactional log data daily**
+- Enabled data-driven marketing during highly volatile demand periods
+- **Tech:** Spark, Qubole, Hive, Zeppelin, Tableau
+
+---
+
+### 🔹 Orbitz Hotel Merchandising System Migration — *Orbitz Worldwide*
+- Led API migration during a major corporate merger
+- Built Spring Boot microservices handling **~400M daily requests**
+- Collaborated across **7+ time zones**
+- **Tech:** Java, Spring Boot, Kafka, MongoDB, PostgreSQL, Solr, AWS
+
+---
+
+## ✍️ Writing & Knowledge Sharing
+
+I write about **data engineering, distributed systems, and real-world platform design** on Medium:
+
+👉 https://medium.com/@paul-akshay
+
+---
+
+## 🤝 Let’s Connect
+
+- 💬 Happy to chat about **backend architecture, Spark, Airflow, Kubernetes, or data platforms**
+- 📫 Email: **contactakshaypaul@gmail.com**
+
+---
+
+⭐️ If you find my work useful, feel free to star or fork — much appreciated!
