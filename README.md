@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Akshay,
+# 👋 Hello there! I’m Akshay,
 
 **Senior Software Engineer | Distributed Systems | Data Platforms | Travel Tech**
 
@@ -12,12 +12,10 @@
 I’m a **Senior Software Engineer with 12+ years of experience** building **high-throughput backend systems** and **large-scale data platforms** that process **terabytes of data daily**, primarily in the **travel and marketing technology domain**.
 
 I specialize in:
-- Designing **scalable microservices** using REST and gRPC  
-- Building **data platforms** with Apache Spark, Airflow, and Kubernetes  
+- Designing and Building **scalable microservices** using REST and gRPC  
+- Building **data platforms** processing terrabytes of data with Apache Spark, Airflow, and Kubernetes  
 - Leading **platform modernization initiatives** that reduce cloud cost and unlock revenue  
 - Mentoring engineers and setting architectural standards across **globally distributed teams**
-
-I’ve contributed to platforms used by **Expedia Group, Orbitz, Amex Travel, Hawaiian Airlines, and Southwest Airlines**.
 
 ---
 
@@ -51,10 +49,10 @@ I’ve contributed to platforms used by **Expedia Group, Orbitz, Amex Travel, Ha
 
 ## 🏆 Impact Highlights
 
-- 💰 Achieved **$240K/year cloud cost savings** through platform modernization  
-- 📈 Enabled **$16M in incremental revenue** at Expedia Group  
-- ⚡ Built gRPC services handling **~20K requests per second**  
-- 🧠 Enabled ML-driven systems with measurable business uplift
+- 💰 Achieved **$240K/year cloud cost savings** through platform modernization for our client Expedia  
+- 📈 Platform built for Expedia’s Marketing Technology team drove **$16M in annual incremental revenue** by powering high-impact SEM campaigns and optimizing their most influential ads.
+- ⚡ Built highly scalable gRPC services that could process **~1B requests **per day
+- 🧠 Built data pipelines for our client’s Outbound Marketing team, enabling in-house ML models that drove $2.6M in annualized gross profit.
 
 ---
 
